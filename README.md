@@ -158,6 +158,8 @@ share a database schema, not code. A contract file, kept identical in both repos
 who owns each table and each field. The most important line in it: **the agent can read my
 decisions but has no write path to them**, which is what keeps its feedback loop honest.
 
+→ The agent has its own showcase: [job-agent-showcase](https://github.com/shalev123223/job-agent-showcase)
+
 ## Engineering practice
 
 - **Decisions come before code.** 30+ architecture decision records, each with context,
